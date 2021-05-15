@@ -5,8 +5,8 @@
 1.  [Libraries used](#libraries-used)
 2.  [Motivation for the project](#motivation-for-the-project)
 3.  [File Description](#file-description)
-4.  [Results of the analysis](#result-of-the-analysis)
-5.  [Acknowledgment](#acknowledgment)
+4.  [Results of the analysis](#results-of-the-analysis)
+5.  [Acknowledgement](#acknowledgement)
 
 
 
