@@ -1,5 +1,6 @@
 ## Titanic-Survival-Prediction-With-Logistic-Regression
  A machine learning project predicting survival outcome of all passengers n the titanic accident.
+ Check out the [medium post](https://dewaleofficial.medium.com/titanic-survival-prediction-34ddf9dfc731) for brief explanation of the result gotten from the analysis
 
 ### TABLE OF CONTENT
 1.  [Libraries used](#libraries-used)
